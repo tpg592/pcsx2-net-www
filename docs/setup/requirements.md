@@ -105,8 +105,8 @@ This page lists the system requirements to run PCSX2.
   </tr>
   <tr>
    <td scope="row">RAM</td>
-   <td><ul aria-label="Minimum RAM requirements"><li>8 GB RAM[^precache]</li></ul></td>
-   <td><ul aria-label="Moderate RAM requirements"><li>16 GB RAM[^precache]</li></ul></td>
+   <td><ul aria-label="Minimum RAM requirements"><li>4 GB RAM[^precache]</li></ul></td>
+   <td><ul aria-label="Moderate RAM requirements"><li>8 GB RAM[^precache]</li></ul></td>
    <td><ul aria-label="Heavy RAM requirements"><li>16 GB RAM[^precache]</li></ul></td>
   </tr>
  </tbody>
