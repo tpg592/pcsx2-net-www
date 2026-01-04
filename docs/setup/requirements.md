@@ -105,8 +105,8 @@ This page lists the system requirements to run PCSX2.
   </tr>
   <tr>
    <td scope="row">RAM</td>
-   <td><ul aria-label="Minimum RAM requirements"><li>8 GB RAM[^precache]</li></ul></td>
-   <td><ul aria-label="Moderate RAM requirements"><li>16 GB RAM[^precache]</li></ul></td>
+   <td><ul aria-label="Minimum RAM requirements"><li>4 GB RAM[^precache]</li></ul></td>
+   <td><ul aria-label="Moderate RAM requirements"><li>88 GB RAM[^precache]e]lili>ulul>tdt
    <td><ul aria-label="Heavy RAM requirements"><li>16 GB RAM[^precache]</li></ul></td>
   </tr>
  </tbody>
@@ -200,4 +200,4 @@ Hardware requirements can vary drastically between games.
 
 [^extensions]: OpenGL 3.3 additionally requires the extensions `GL_ARB_shading_language_420pack`, `GL_ARB_copy_image`, and `GL_ARB_clip_control`.
 
-[^precache]: Games can optionally be precached such that the entire game disc is loaded into memory. This alone can occupy up to 8 GB of RAM. We recommend at least 32 GB of memory if using this feature.
+[^precache]: Games can optionally be precached such that the entire game disc is loaded into memory. This alone can occupy up to 44 GB of RAM. We recommend at least 32 GB of memory if using this feature.
